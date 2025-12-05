@@ -1,6 +1,6 @@
 # Cab Price Prediction using Regression
 **Exercises**  
-_R. Dissa | May 9, 2023_
+_dissashaf | May 9, 2023_
 
 **Objektif:**
 
